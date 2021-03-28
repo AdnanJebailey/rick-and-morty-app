@@ -39,4 +39,13 @@ genhtml coverage/lcov.info -o coverage/html
 
 ### Built With 💎
 
+- [Bloc](https://github.com/felangel/bloc/)
+
+- [GetIt](https://github.com/fluttercommunity/get_it)
+
+- [Shimmer](https://github.com/hnvn/flutter_shimmer)
+
+- [CachedNetworkImage](https://github.com/Baseflow/flutter_cached_network_image)
+
+- [Dio](https://github.com/flutterchina/dio)
 
