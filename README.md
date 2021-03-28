@@ -21,13 +21,19 @@ Using the [[Rick and Morty API](https://github.com/afuh/rick-and-morty-api)].
 
 Run project
 
-```flutter run```
+```bash
+flutter run
+```
 
 Installing project depencies
 
-```flutter test --coverage```
+```bash
+flutter test --coverage
+```
 
-```genhtml coverage/lcov.info -o coverage/html```
+```bash
+genhtml coverage/lcov.info -o coverage/html
+```
 
 ---
 
