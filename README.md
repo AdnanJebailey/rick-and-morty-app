@@ -1,11 +1,11 @@
 ## Rick And Morty
 
+<img src="https://badgen.net/badge/coverage/100%25/green?icon=github" />
+
 ## Demo 💻
 
 
 <img src="https://github.com/gabrielferreir/rick-and-morty-app/blob/master/screenshot/list.gif?raw=true" width="300" />
-
-<img src="https://badgen.net/badge/coverage/100%25/green?icon=github" />
 
 ---
 
