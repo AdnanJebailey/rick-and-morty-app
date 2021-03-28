@@ -25,7 +25,7 @@ Run project
 flutter run
 ```
 
-Installing project depencies
+Run test
 
 ```bash
 flutter test --coverage
